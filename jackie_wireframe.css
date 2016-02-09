@@ -1,0 +1,48 @@
+
+body {
+  background-color: white;
+}
+
+header, {
+  background-color: white;
+  height:50px;
+  margin:10px;
+}
+#top {
+  background-color: red;
+  height: 30px;
+  padding: 20 px;
+  margin;: 10px;
+  text-align: center;
+}
+
+}
+#main_content {
+  height:auto;
+  background-color: white;
+  border: 10px;
+  border-color: black;
+
+}
+ul { list-style-type: none;
+width: auto;
+float: right;
+}
+
+li {
+  display: block;
+  float: left;
+  padding: 5px;
+  margin:5px;
+}
+div {
+  padding:10px;
+  margin:10px;
+}
+#middle {
+
+  background-color: black;
+  height:auto;
+  border: 10px;
+  border-color: black;
+  color:white;
